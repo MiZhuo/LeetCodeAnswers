@@ -9,7 +9,7 @@ import org.junit.Test;
 
 public class test {
     @Test
-    public void test(){
+    public void test() {
         MyAtoi atoi = new MyAtoi();
         atoi.myAtoi("42");
     }
